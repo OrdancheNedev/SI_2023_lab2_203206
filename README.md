@@ -24,7 +24,22 @@ V(G)=E-N+2=35-27+2=10
 
 Цикломатската комплексност изнесува 10.
 
+
+
+
+
 C1 - EveryBranch метода
+
+
+![EB1](https://github.com/OrdancheNedev/SI_2023_lab2_203206/assets/127043099/cac54daa-8473-44d8-a408-889989025c8e)
+
+
+
+
+![EB2](https://github.com/OrdancheNedev/SI_2023_lab2_203206/assets/127043099/55f5877c-3135-4296-9410-b69acbf4c744)
+
+
+
 
 
 
