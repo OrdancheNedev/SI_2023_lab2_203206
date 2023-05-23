@@ -46,4 +46,11 @@ C1 - EveryBranch метода
 
 
 
+Multiple Condition
+
+
+![MultipleCondition](https://github.com/OrdancheNedev/SI_2023_lab2_203206/assets/127043099/ac4883db-3de0-4198-8a6c-248603a63060)
+
+
+Ако било кој влезен аргумент е null, програмата фрла исклучок. Само ако сите аргументи се различни од null, може програмата да продолжи да се извршува.
 
